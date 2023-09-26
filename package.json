@@ -1,0 +1,20 @@
+{
+  "name": "FullStackQAP1",
+  "version": "1.0.0",
+  "description": "QAP1 for FullStack F23",
+  "main": "GlobalNode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshwhite2/FullStackQAP1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshwhite2/FullStackQAP1/issues"
+  },
+  "homepage": "https://github.com/joshwhite2/FullStackQAP1#readme"
+}
